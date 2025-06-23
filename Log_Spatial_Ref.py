@@ -95,7 +95,7 @@ def log_all_feature_classes(sde_path):
 
 if __name__ == "__main__":
     # Replace this path with your actual .sde file path
-    sde_connection_path = r"C:\Users\spwm1t\AppData\Roaming\Esri\ArcGISPro\Favorites\SPW_GDBA@SPW_GIS_TEST.sde"
+    sde_connection_path = r"C:\Users\trabun\yourSDE.sde"
 
     # Call the logging function with your SDE connection
     log_all_feature_classes(sde_connection_path)
