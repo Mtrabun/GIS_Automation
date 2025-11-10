@@ -39,7 +39,7 @@ Before using this script, make sure you have the following prerequisites in plac
         ```
         python CheckGDBForFeatureClasses.py
         ```
-
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 4. **Review the Output**:
 
     - The script will generate a report on the console, listing the found feature classes and those that are missing in the geodatabase.
